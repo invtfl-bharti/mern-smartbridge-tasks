@@ -1,1 +1,0 @@
-# mern-smartbridge-tasks
